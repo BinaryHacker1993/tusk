@@ -1,1 +1,3 @@
 This is created from local Git repository.
+Successfully added to Github.com.
+Task completed.
